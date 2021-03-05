@@ -1,0 +1,26 @@
+{
+  "name": "uml-relationships-js",
+  "version": "1.0.0",
+  "description": "This repository contains examples, that explain the relations between class. as the class relations Use, association, aggregation, composition and inheritance  in javascript ECMAScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sistemasnegros/uml-relationships-js.git"
+  },
+  "keywords": [
+    "javascritp",
+    "es6",
+    "class",
+    "examples",
+    "relationships"
+  ],
+  "author": "Kevin Franco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sistemasnegros/uml-relationships-js/issues"
+  },
+  "homepage": "https://github.com/sistemasnegros/uml-relationships-js#readme"
+}
